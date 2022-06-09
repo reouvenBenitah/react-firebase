@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-firbase/static/css/main.0bf0072a.css",
+    "main.js": "/react-firbase/static/js/main.dbf2cfc4.js",
+    "index.html": "/react-firbase/index.html",
+    "main.0bf0072a.css.map": "/react-firbase/static/css/main.0bf0072a.css.map",
+    "main.dbf2cfc4.js.map": "/react-firbase/static/js/main.dbf2cfc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf0072a.css",
+    "static/js/main.dbf2cfc4.js"
+  ]
+}
